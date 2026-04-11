@@ -8,5 +8,5 @@ Apresentação utilizando o software de design gráfico "Canva". Foi utilizada m
 https://docs.google.com/spreadsheets/d/1E3PQMkuNCeuBwf8Z9yKccNO36mpgRXJ0/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
 ## Tabela de Desespesas e Funções (treino de modelagem de gráficos)
 https://docs.google.com/spreadsheets/d/1nQhKhqjZnB29mwo-YGPqbwqC7IWG6_FR/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
-## MatrÍculas INEP - Treino de Fórmulas no Excel
+## Matrículas INEP - Treino de Fórmulas no Excel
 https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
