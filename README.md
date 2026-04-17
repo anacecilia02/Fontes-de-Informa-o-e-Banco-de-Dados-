@@ -12,3 +12,5 @@ https://docs.google.com/spreadsheets/d/1E3PQMkuNCeuBwf8Z9yKccNO36mpgRXJ0/edit?us
 https://docs.google.com/spreadsheets/d/1nQhKhqjZnB29mwo-YGPqbwqC7IWG6_FR/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
 ## Matrículas INEP - Treino de Fórmulas no Excel
 https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
+## Certificado do curso: Python Fundamental - Aprenda Mais MEC
+https://drive.google.com/file/d/1aKpM0SmSaMhOI0f72AaiB2KF7df9A527/view?usp=sharing
