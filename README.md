@@ -2,7 +2,7 @@
 
 Atividades e Trabalhos realizados no curso de Gestão da Produção Industrial (1° Semestre) em aula na disciplina de Fontes e Bancos de Dados
 
-## Apresentações:
+## 🚀 | Apresentações:
 
 ## Apresentação coletiva informal com o uso de sfotwaeres de design gráfico:
 
@@ -23,7 +23,9 @@ Nos slides, abordamos sobre os as profissões, hobbies e cursos de cada um dos i
 
 <img width="1920" height="1080" alt="Captura de tela 2026-04-17 222944" src="https://github.com/user-attachments/assets/2bd6c463-a477-4952-820f-6c5028a2a1a1" />
 
-Para entender o contexto e as necessidades do cliente, acesse: https://docs.google.com/spreadsheets/d/1Ebo9KrzdNyJs9_Ob16ZWbsHkk1gz2TPBwKTp4Ehtj0M/edit?usp=sharing
+🔹Para entender o contexto e as necessidades do cliente, acesse: https://docs.google.com/spreadsheets/d/1Ebo9KrzdNyJs9_Ob16ZWbsHkk1gz2TPBwKTp4Ehtj0M/edit?usp=sharing
+
+## 📊 | Análises de Gráficos e Tabelas - Microsoft Excel:
 
 ## Tabela de Dados Gerais - Prefeitura Municipal de São José dos Campos
 
@@ -59,7 +61,7 @@ https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?us
 
 📆 | 17/04/2026
 
-Ainda utilizando uma base de dados de domínio público do Estado de São Paulo, agora focando no eixo de Transporte e Veículos, realizei uma análise com foco nos eventos de sinistros que ocorrem no município de São José dos Campos.
+👉 Ainda utilizando uma base de dados de domínio público do Estado de São Paulo, agora focando no eixo de Transporte e Veículos, realizei uma análise com foco nos eventos de sinistros que ocorrem no município de São José dos Campos.
 
 <img width="1920" height="1080" alt="580232427-97a3a770-a3dd-451d-9cb9-6f066a452912" src="https://github.com/user-attachments/assets/41ba14a5-f7fe-4f4c-ba9e-5f2b65c7e802" />
 
