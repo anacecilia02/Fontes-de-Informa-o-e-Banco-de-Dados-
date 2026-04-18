@@ -8,11 +8,11 @@ Apresentação utilizando o software de design gráfico "Canva". Foi utilizada m
 
 [Projeto 1- 13022026 -Apresentação Fatec - Grupo 5.pdf](https://github.com/user-attachments/files/25589979/Projeto.1-.13022026.-Apresentacao.Fatec.-.Grupo.5.pdf)
 
-<img width="600" height="300" alt="Captura de tela 2026-02-26 210652" src="https://github.com/user-attachments/assets/d8deb04b-983f-4936-ba31-2bfe3c4e5005" />
+<img width="1920" height="1080" alt="Captura de tela 2026-02-26 210652" src="https://github.com/user-attachments/assets/d8deb04b-983f-4936-ba31-2bfe3c4e5005" />
 
 ## Proposta de casamento indiano - Simulação de backlog para API
 
-<img width="600" height="300" alt="Captura de tela 2026-04-17 222944" src="https://github.com/user-attachments/assets/2bd6c463-a477-4952-820f-6c5028a2a1a1" />
+<img width="1920" height="1080" alt="Captura de tela 2026-04-17 222944" src="https://github.com/user-attachments/assets/2bd6c463-a477-4952-820f-6c5028a2a1a1" />
 
 https://drive.google.com/file/d/1jXNTYJrW9yhS8cOB5rhYfjfWHTIQ1smm/view?usp=sharing
 
@@ -36,7 +36,7 @@ https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?us
 
 ## Certificado do curso: Python Fundamental - Aprenda Mais MEC
 
-<img width="600" height="300" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/946099e7-a4af-496e-a074-5a88154c7ba1" />
+<img width="1920" height="1080" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/946099e7-a4af-496e-a074-5a88154c7ba1" />
 
 https://drive.google.com/file/d/1aKpM0SmSaMhOI0f72AaiB2KF7df9A527/view?usp=sharing
 
