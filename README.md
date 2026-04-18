@@ -10,7 +10,7 @@ Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (
 
 👉 Realizamos a primeira apresentação na disciplina de Fontes de Informações e Banco de Dados, com o auxílio do software Canva, cujo objetivo foi promover a integração e o conhecimento entre os alunos do curso. Nos slides, abordamos as profissões, hobbies e cursos de cada integrante e, para um momento descontraído, propusemos uma dinâmica com o uso de cartas digitais para testar o conhecimento dos alunos sobre as características do grupo.
 
-[Projeto 1- 13022026 -Apresentação Fatec - Grupo 5.pdf](https://github.com/user-attachments/files/25589979/Projeto.1-.13022026.-Apresentacao.Fatec.-.Grupo.5.pdf)
+https://drive.google.com/file/d/1ZyzYafRvsz7Ssx_BgXfuPbTrMy_kTmqg/view?usp=sharing
 
 <img width="1920" height="1080" alt="Captura de tela 2026-04-18 175941" src="https://github.com/user-attachments/assets/1ad4ac7a-86eb-4ae4-af9e-b5abd5163a3d" />
 
