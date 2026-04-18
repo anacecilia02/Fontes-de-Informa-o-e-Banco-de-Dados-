@@ -8,7 +8,7 @@ Apresentação utilizando o software de design gráfico "Canva". Foi utilizada m
 
 [Projeto 1- 13022026 -Apresentação Fatec - Grupo 5.pdf](https://github.com/user-attachments/files/25589979/Projeto.1-.13022026.-Apresentacao.Fatec.-.Grupo.5.pdf)
 
-<img width="1870" height="1054" alt="Captura de tela 2026-02-26 210652" src="https://github.com/user-attachments/assets/d8deb04b-983f-4936-ba31-2bfe3c4e5005" />
+<img width="600" height="300" alt="Captura de tela 2026-02-26 210652" src="https://github.com/user-attachments/assets/d8deb04b-983f-4936-ba31-2bfe3c4e5005" />
 
 ## Proposta de casamento indiano - Simulação de backlog para API
 
@@ -17,6 +17,8 @@ Apresentação utilizando o software de design gráfico "Canva". Foi utilizada m
 https://drive.google.com/file/d/1jXNTYJrW9yhS8cOB5rhYfjfWHTIQ1smm/view?usp=sharing
 
 ## Tabela de Dados Gerais - Prefeitura Municipal de São José dos Campos
+
+<img width="600" height="600" alt="Captura de tela 2026-04-17 223411" src="https://github.com/user-attachments/assets/9b17df68-68ff-49b9-9235-461623dcd17e" />
 
 https://docs.google.com/spreadsheets/d/1E3PQMkuNCeuBwf8Z9yKccNO36mpgRXJ0/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
 
