@@ -12,7 +12,7 @@ Apresentação utilizando o software de design gráfico "Canva". Foi utilizada m
 
 ## Proposta de casamento indiano - Simulação de backlog para API
 
-<img width="300" height="600" alt="Captura de tela 2026-04-17 222944" src="https://github.com/user-attachments/assets/2bd6c463-a477-4952-820f-6c5028a2a1a1" />
+<img width="600" height="300" alt="Captura de tela 2026-04-17 222944" src="https://github.com/user-attachments/assets/2bd6c463-a477-4952-820f-6c5028a2a1a1" />
 
 
 https://drive.google.com/file/d/1jXNTYJrW9yhS8cOB5rhYfjfWHTIQ1smm/view?usp=sharing
