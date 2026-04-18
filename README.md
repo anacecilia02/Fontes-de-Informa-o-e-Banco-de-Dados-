@@ -30,6 +30,8 @@ https://docs.google.com/spreadsheets/d/1nQhKhqjZnB29mwo-YGPqbwqC7IWG6_FR/edit?us
 
 ## Matrículas INEP - Treino de Fórmulas no Excel
 
+<img width="1920" height="1080" alt="Design sem nome" src="https://github.com/user-attachments/assets/52f22935-c64a-4c58-9cec-b540b6dbf439" />
+
 https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
 
 ## Certificado do curso: Python Fundamental - Aprenda Mais MEC
