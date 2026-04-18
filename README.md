@@ -27,6 +27,10 @@ Para entender o contexto e as necessidades do cliente, acesse: https://docs.goog
 
 ## Tabela de Dados Gerais - Prefeitura Municipal de São José dos Campos
 
+📆 | 03/03/2026
+
+👉 Durante a aula, por meio de atividades práticas no Excel, realizamos uma análise baseada em dados de transparência pública da Prefeitura Municipal de São José dos Campos, com foco específico nas receitas do município.
+
 <img width="300" height="300" alt="Captura de tela 2026-04-17 223411" src="https://github.com/user-attachments/assets/9b17df68-68ff-49b9-9235-461623dcd17e" />
 
 https://docs.google.com/spreadsheets/d/1E3PQMkuNCeuBwf8Z9yKccNO36mpgRXJ0/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
