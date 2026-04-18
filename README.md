@@ -23,6 +23,7 @@ Nos slides, abordamos sobre os as profissões, hobbies e cursos de cada um dos i
 
 <img width="1920" height="1080" alt="Captura de tela 2026-04-17 222944" src="https://github.com/user-attachments/assets/2bd6c463-a477-4952-820f-6c5028a2a1a1" />
 
+
 Para entender o contexto e as necessidades do cliente, acesse: 
 
 https://drive.google.com/file/d/1jXNTYJrW9yhS8cOB5rhYfjfWHTIQ1smm/view?usp=sharing
