@@ -36,6 +36,8 @@ https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?us
 
 ## Certificado do curso: Python Fundamental - Aprenda Mais MEC
 
+<img width="600" height="300" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/946099e7-a4af-496e-a074-5a88154c7ba1" />
+
 https://drive.google.com/file/d/1aKpM0SmSaMhOI0f72AaiB2KF7df9A527/view?usp=sharing
 
 ## Análise de Sinistros no Estado de São Paulo | Fevereiro/26 
