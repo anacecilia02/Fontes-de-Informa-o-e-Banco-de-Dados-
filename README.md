@@ -2,9 +2,13 @@
 
 Atividades e Trabalhos realizados no curso de Gestão da Produção Industrial (1° Semestre) em aula na disciplina de Fontes e Bancos de Dados
 
-## Apresentação em equipe com o uso de sfotwaeres de design gráfico. 
+## Apresentações:
 
-Apresentação utilizando o software de design gráfico "Canva". Foi utilizada metodologia de gameficação. <br> 
+## Apresentação coletiva informal com o uso de sfotwaeres de design gráfico. 
+
+📆 | 21/02/2026
+👉 Realizamos a primeira apresentação na disciplina de Fontes de Informações e Banco de Dados, com o auxílio do software “Canva”, cujo objetivo era realizar a integração e conhecimento dos alunos do curso. 
+Nos slides, abordamos sobre ___, e para um momento descontraído oferecemos uma dinâmica com o uso de cartas digitais para testar o conhecimento dos alunos em relação às características do grupo. 
 
 [Projeto 1- 13022026 -Apresentação Fatec - Grupo 5.pdf](https://github.com/user-attachments/files/25589979/Projeto.1-.13022026.-Apresentacao.Fatec.-.Grupo.5.pdf)
 
