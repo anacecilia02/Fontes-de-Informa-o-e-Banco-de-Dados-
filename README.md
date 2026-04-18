@@ -14,3 +14,5 @@ https://docs.google.com/spreadsheets/d/1nQhKhqjZnB29mwo-YGPqbwqC7IWG6_FR/edit?us
 https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
 ## Certificado do curso: Python Fundamental - Aprenda Mais MEC
 https://drive.google.com/file/d/1aKpM0SmSaMhOI0f72AaiB2KF7df9A527/view?usp=sharing
+## Análise de Sinistros no Estado de São Paulo | Fevereiro/26 
+https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?usp=sharing&ouid=113891870647449011314&rtpof=true&sd=true
