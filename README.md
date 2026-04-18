@@ -55,7 +55,11 @@ https://docs.google.com/spreadsheets/d/1nQhKhqjZnB29mwo-YGPqbwqC7IWG6_FR/edit?us
 
 https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
 
-## Certificado do curso: Python Fundamental - Aprenda Mais MEC
+## 📄 | Certificados: 
+
+## Python Fundamental - Aprenda Mais MEC
+
+👉 De acordo com a matéria lecionada (Fonte de Informações e Banco de Dados), para melhor desenvoltura, realizei o curso de Python Fundamental, disponível na plataforma educacional Aprenda Mais Mec (link da plataforma) com o objetivo de aprimorar meus conhecimentos na linguagem de programação e execução em atividades.
 
 <img width="1920" height="1080" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/946099e7-a4af-496e-a074-5a88154c7ba1" />
 
