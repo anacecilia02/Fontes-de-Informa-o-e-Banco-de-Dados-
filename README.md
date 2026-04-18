@@ -12,7 +12,7 @@ Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (
 
 [Projeto 1- 13022026 -Apresentação Fatec - Grupo 5.pdf](https://github.com/user-attachments/files/25589979/Projeto.1-.13022026.-Apresentacao.Fatec.-.Grupo.5.pdf)
 
-<img width="1920" height="1080" alt="Captura de tela 2026-02-26 210652" src="https://github.com/user-attachments/assets/d8deb04b-983f-4936-ba31-2bfe3c4e5005" />
+<img width="1920" height="1080" alt="Captura de tela 2026-04-18 175941" src="https://github.com/user-attachments/assets/1ad4ac7a-86eb-4ae4-af9e-b5abd5163a3d" />
 
 ## Proposta de casamento indiano - Simulação de backlog para API:
 
