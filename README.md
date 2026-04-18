@@ -15,7 +15,11 @@ Nos slides, abordamos sobre os as profissões, hobbies e cursos de cada um dos i
 
 <img width="1920" height="1080" alt="Captura de tela 2026-02-26 210652" src="https://github.com/user-attachments/assets/d8deb04b-983f-4936-ba31-2bfe3c4e5005" />
 
-## Proposta de casamento indiano - Simulação de backlog para API
+## Proposta de casamento indiano - Simulação de backlog para API:
+
+📆 | 03/03/2026
+
+Realizamos uma proposta de casamento indiano seguindo a Metodologia Scrum. Durante o desenvolvimento do projeto, pude exercer a função de P.O (Product Ower), que visa entrar em contato com o cliente e entender suas necessidades e demandas para a execução do trabalho. 
 
 <img width="1920" height="1080" alt="Captura de tela 2026-04-17 222944" src="https://github.com/user-attachments/assets/2bd6c463-a477-4952-820f-6c5028a2a1a1" />
 
