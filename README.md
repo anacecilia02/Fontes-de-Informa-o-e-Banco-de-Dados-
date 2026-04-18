@@ -47,6 +47,10 @@ https://docs.google.com/spreadsheets/d/1nQhKhqjZnB29mwo-YGPqbwqC7IWG6_FR/edit?us
 
 ## Matrículas INEP - Treino de Fórmulas no Excel
 
+📆 | 09/04/2026
+
+👉 Escolhemos um conjunto de dados voltados para o eixo de Educação no Estado de São Paulo, foram realizadas tabelas com variadas questões, além do uso de funções como: SOMASES, MÁXIMO, CORRESP E ÍNDICE.
+
 <img width="1920" height="1080" alt="Design sem nome" src="https://github.com/user-attachments/assets/e8b0fad6-d865-458a-a5b2-e92fdca191f4" />
 
 https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
