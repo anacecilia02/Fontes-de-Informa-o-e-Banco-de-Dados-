@@ -1,4 +1,4 @@
-## 👩‍💻 | Fontes de Informação e Banco de Dados
+## 👩‍💻 | Fontes de Informação e Banco de Dados:
 
 Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (1º semestre), na disciplina de Fontes e Bancos de Dados, ministrada pela professora Adriana da Silva Jacinto.
 
@@ -8,8 +8,7 @@ Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (
 
 📆 | 21/02/2026
 
-👉 Realizamos a primeira apresentação na disciplina de Fontes de Informações e Banco de Dados, com o auxílio do software “Canva”, cujo objetivo era realizar a integração e conhecimento dos alunos do curso. 
-Nos slides, abordamos sobre os as profissões, hobbies e cursos de cada um dos integrantes, e para um momento descontraído, oferecemos uma dinâmica com o uso de cartas digitais para testar o conhecimento dos alunos em relação às características do grupo. 
+👉 Realizamos a primeira apresentação na disciplina de Fontes de Informações e Banco de Dados, com o auxílio do software Canva, cujo objetivo foi promover a integração e o conhecimento entre os alunos do curso. Nos slides, abordamos as profissões, hobbies e cursos de cada integrante e, para um momento descontraído, propusemos uma dinâmica com o uso de cartas digitais para testar o conhecimento dos alunos sobre as características do grupo.
 
 [Projeto 1- 13022026 -Apresentação Fatec - Grupo 5.pdf](https://github.com/user-attachments/files/25589979/Projeto.1-.13022026.-Apresentacao.Fatec.-.Grupo.5.pdf)
 
@@ -19,7 +18,7 @@ Nos slides, abordamos sobre os as profissões, hobbies e cursos de cada um dos i
 
 📆 | 03/03/2026
 
-👉 Realizamos uma proposta de casamento indiano seguindo a Metodologia Scrum. Durante o desenvolvimento do projeto, pude exercer a função de P.O (Product Ower), que visa entrar em contato com o cliente e entender suas necessidades e demandas para a execução do trabalho. 
+👉 Realizamos uma proposta de casamento indiano seguindo a metodologia Scrum. Durante o desenvolvimento do projeto, exerci a função de P.O. (Product Owner), responsável por entrar em contato com o cliente e compreender suas necessidades e demandas para a execução do trabalho. 
 
 <img width="1920" height="1080" alt="Captura de tela 2026-04-17 222944" src="https://github.com/user-attachments/assets/2bd6c463-a477-4952-820f-6c5028a2a1a1" />
 
@@ -33,7 +32,7 @@ https://drive.google.com/file/d/1jXNTYJrW9yhS8cOB5rhYfjfWHTIQ1smm/view?usp=shari
 
 📆 | 03/03/2026
 
-👉 Durante a aula, por meio de atividades práticas no Excel, realizamos uma análise baseada em dados de transparência pública da Prefeitura Municipal de São José dos Campos, com foco específico nas receitas do município.
+👉 Durante a aula, por meio de atividades práticas no Excel, realizamos uma análise com base em dados de transparência pública da Prefeitura Municipal de São José dos Campos, com foco específico nas receitas do município.
 
 <img width="300" height="300" alt="Captura de tela 2026-04-17 223411" src="https://github.com/user-attachments/assets/9b17df68-68ff-49b9-9235-461623dcd17e" />
 
@@ -43,7 +42,7 @@ https://docs.google.com/spreadsheets/d/1E3PQMkuNCeuBwf8Z9yKccNO36mpgRXJ0/edit?us
 
 📆 | 13/03/2026
 
-👉 Ainda utilizando a base de dados da transparência da Prefeitura Municipal de São José dos Campos, agora focando em analisar as despesas do município. Inicialmente, em um campo chamado Despesas por Função, onde criamos tabelas sobre a secretaria e complementamos com gráficos para melhor visualização dos dados, fazendo o uso de funções como CONT.ME e SOMASE.
+👉 Ainda utilizando a base de dados de transparência da Prefeitura Municipal de São José dos Campos, passamos a analisar as despesas do município. Inicialmente, trabalhamos com o campo “Despesas por Função”, no qual criamos tabelas por secretaria e complementamos com gráficos para melhor visualização dos dados, utilizando funções como CONT.SE e SOMASE.
 
 <img width="1715" height="724" alt="Captura de tela 2026-04-17 223648" src="https://github.com/user-attachments/assets/b5bd2ef0-138d-49ab-a12f-e7250aa074a4" />
 
@@ -53,7 +52,7 @@ https://docs.google.com/spreadsheets/d/1nQhKhqjZnB29mwo-YGPqbwqC7IWG6_FR/edit?us
 
 📆 | 09/04/2026
 
-👉 Escolhemos um conjunto de dados voltados para o eixo de Educação no Estado de São Paulo, foram realizadas tabelas com variadas questões, além do uso de funções como: SOMASES, MÁXIMO, CORRESP E ÍNDICE.
+👉 Escolhemos um conjunto de dados voltado ao eixo de Educação no Estado de São Paulo. Foram elaboradas tabelas com diferentes análises, além da utilização de funções como SOMASES, MÁXIMO, CORRESP e ÍNDICE.
 
 <img width="1920" height="1080" alt="Design sem nome" src="https://github.com/user-attachments/assets/e8b0fad6-d865-458a-a5b2-e92fdca191f4" />
 
@@ -63,7 +62,7 @@ https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?us
 
 📆 | 17/04/2026
 
-👉 Ainda utilizando uma base de dados de domínio público do Estado de São Paulo, agora focando no eixo de Transporte e Veículos, realizei uma análise com foco nos eventos de sinistros que ocorrem no município de São José dos Campos.
+👉 Ainda utilizando uma base de dados de domínio público do Estado de São Paulo, desta vez com foco no eixo de Transporte e Veículos, realizei uma análise voltada aos eventos de sinistros ocorridos no município de São José dos Campos.
 
 <img width="1920" height="1080" alt="580232427-97a3a770-a3dd-451d-9cb9-6f066a452912" src="https://github.com/user-attachments/assets/41ba14a5-f7fe-4f4c-ba9e-5f2b65c7e802" />
 
@@ -73,7 +72,7 @@ https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?us
 
 ## Python Fundamental - Aprenda Mais MEC
 
-👉 De acordo com a matéria lecionada (Fonte de Informações e Banco de Dados), para melhor desenvoltura, realizei o curso de Python Fundamental, disponível na plataforma educacional Aprenda Mais Mec (link da plataforma) com o objetivo de aprimorar meus conhecimentos na linguagem de programação e execução em atividades.
+👉 De acordo com a disciplina lecionada (Fontes de Informações e Banco de Dados), e visando a uma melhor desenvoltura, realizei o curso de Python Fundamental, disponível na plataforma educacional Aprenda Mais MEC (link da plataforma), com o objetivo de aprimorar meus conhecimentos na linguagem de programação e sua aplicação em atividades.
 
 <img width="1920" height="1080" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/946099e7-a4af-496e-a074-5a88154c7ba1" />
 
@@ -81,4 +80,4 @@ https://drive.google.com/file/d/1aKpM0SmSaMhOI0f72AaiB2KF7df9A527/view?usp=shari
 
 ## Criando trabalhos acadêmicos com ferramentas digitais:
 
-👉 Ainda fazendo o uso da plataforma Aprenda Mais MEC (Link), também realizei o curso de: Criando Trabalhos Acadêmicos com Ferramentas Digitais, com o objetivo de aprimorar ainda mais meus conhecimentos nas ferramentas de tecnologia, além melhorar meus conhecimentos nas normas ABNT (Associação Brasileira de Normas Técnicas).
+👉 Ainda utilizando a plataforma Aprenda Mais MEC (link), também realizei o curso “Criando Trabalhos Acadêmicos com Ferramentas Digitais”, com o objetivo de aprimorar meus conhecimentos em ferramentas tecnológicas, além de aprofundar meu domínio das normas da ABNT (Associação Brasileira de Normas Técnicas).
