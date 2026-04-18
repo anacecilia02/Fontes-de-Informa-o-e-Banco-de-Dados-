@@ -84,6 +84,3 @@ https://drive.google.com/file/d/1aKpM0SmSaMhOI0f72AaiB2KF7df9A527/view?usp=shari
 👉 Ainda fazendo o uso da plataforma Aprenda Mais MEC (Link), também realizei o curso de: Criando Trabalhos Acadêmicos com Ferramentas Digitais, com o objetivo de aprimorar ainda mais meus conhecimentos nas ferramentas de tecnologia, além melhorar meus conhecimentos nas normas ABNT (Associação Brasileira de Normas Técnicas).
 
 <img width="3000" height="2047" alt="image" src="https://github.com/user-attachments/assets/350bf46f-3913-4cda-8b0e-1997c65556e0" />
-
-
-https://drive.google.com/file/d/12AQhWhPkoTLO-RcH2rr98EUYAqaachO2/view?usp=sharing
