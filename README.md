@@ -4,9 +4,10 @@ Atividades e Trabalhos realizados no curso de Gestão da Produção Industrial (
 
 ## Apresentações:
 
-## Apresentação coletiva informal com o uso de sfotwaeres de design gráfico. 
+## Apresentação coletiva informal com o uso de sfotwaeres de design gráfico:
 
 📆 | 21/02/2026
+
 👉 Realizamos a primeira apresentação na disciplina de Fontes de Informações e Banco de Dados, com o auxílio do software “Canva”, cujo objetivo era realizar a integração e conhecimento dos alunos do curso. 
 Nos slides, abordamos sobre ___, e para um momento descontraído oferecemos uma dinâmica com o uso de cartas digitais para testar o conhecimento dos alunos em relação às características do grupo. 
 
