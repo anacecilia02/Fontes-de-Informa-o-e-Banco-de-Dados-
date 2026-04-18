@@ -1,4 +1,4 @@
-## 👩‍💻 | Fontes de Informação e Banco de Dados |
+## 👩‍💻 | Fontes de Informação e Banco de Dados
 
 Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (1º semestre), na disciplina de Fontes e Bancos de Dados, ministrada pela professora Adriana da Silva Jacinto.
 
