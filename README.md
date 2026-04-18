@@ -37,6 +37,10 @@ https://docs.google.com/spreadsheets/d/1E3PQMkuNCeuBwf8Z9yKccNO36mpgRXJ0/edit?us
 
 ## Tabela de Desespesas e Funções (treino de modelagem de gráficos)
 
+📆 | 13/03/2026
+
+👉 Ainda utilizando a base de dados da transparência da Prefeitura Municipal de São José dos Campos, agora focando em analisar as despesas do município. Inicialmente, em um campo chamado Despesas por Função, onde criamos tabelas sobre a secretaria e complementamos com gráficos para melhor visualização dos dados, fazendo o uso de funções como CONT.ME e SOMASE.
+
 <img width="1715" height="724" alt="Captura de tela 2026-04-17 223648" src="https://github.com/user-attachments/assets/b5bd2ef0-138d-49ab-a12f-e7250aa074a4" />
 
 https://docs.google.com/spreadsheets/d/1nQhKhqjZnB29mwo-YGPqbwqC7IWG6_FR/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
