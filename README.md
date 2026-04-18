@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1jXNTYJrW9yhS8cOB5rhYfjfWHTIQ1smm/view?usp=shari
 
 ## Tabela de Dados Gerais - Prefeitura Municipal de São José dos Campos
 
-<img width="600" height="600" alt="Captura de tela 2026-04-17 223411" src="https://github.com/user-attachments/assets/9b17df68-68ff-49b9-9235-461623dcd17e" />
+<img width="300" height="300" alt="Captura de tela 2026-04-17 223411" src="https://github.com/user-attachments/assets/9b17df68-68ff-49b9-9235-461623dcd17e" />
 
 https://docs.google.com/spreadsheets/d/1E3PQMkuNCeuBwf8Z9yKccNO36mpgRXJ0/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
 
