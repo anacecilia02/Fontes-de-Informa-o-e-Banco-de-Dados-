@@ -61,7 +61,7 @@ https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?us
 
 Ainda utilizando uma base de dados de domínio público do Estado de São Paulo, agora focando no eixo de Transporte e Veículos, realizei uma análise com foco nos eventos de sinistros que ocorrem no município de São José dos Campos.
 
-<img width="600" height="300" alt="580232427-97a3a770-a3dd-451d-9cb9-6f066a452912" src="https://github.com/user-attachments/assets/41ba14a5-f7fe-4f4c-ba9e-5f2b65c7e802" />
+<img width="1920" height="1080" alt="580232427-97a3a770-a3dd-451d-9cb9-6f066a452912" src="https://github.com/user-attachments/assets/41ba14a5-f7fe-4f4c-ba9e-5f2b65c7e802" />
 
 https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?usp=sharing&ouid=113891870647449011314&rtpof=true&sd=true
 
