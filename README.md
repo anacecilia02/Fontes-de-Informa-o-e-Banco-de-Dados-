@@ -82,3 +82,6 @@ https://drive.google.com/file/d/1aKpM0SmSaMhOI0f72AaiB2KF7df9A527/view?usp=shari
 ## Criando trabalhos acadêmicos com ferramentas digitais:
 
 👉 Ainda fazendo o uso da plataforma Aprenda Mais MEC (Link), também realizei o curso de: Criando Trabalhos Acadêmicos com Ferramentas Digitais, com o objetivo de aprimorar ainda mais meus conhecimentos nas ferramentas de tecnologia, além melhorar meus conhecimentos nas normas ABNT (Associação Brasileira de Normas Técnicas).
+
+<img width="3000" height="2047" alt="image" src="https://github.com/user-attachments/assets/28c2ca8f-95d9-4d89-be1c-f5cbaca8ae6d" />
+
