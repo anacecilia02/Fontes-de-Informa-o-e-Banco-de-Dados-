@@ -24,6 +24,8 @@ https://docs.google.com/spreadsheets/d/1E3PQMkuNCeuBwf8Z9yKccNO36mpgRXJ0/edit?us
 
 ## Tabela de Desespesas e Funções (treino de modelagem de gráficos)
 
+<img width="1715" height="724" alt="Captura de tela 2026-04-17 223648" src="https://github.com/user-attachments/assets/b5bd2ef0-138d-49ab-a12f-e7250aa074a4" />
+
 https://docs.google.com/spreadsheets/d/1nQhKhqjZnB29mwo-YGPqbwqC7IWG6_FR/edit?usp=drive_link&ouid=113891870647449011314&rtpof=true&sd=true
 
 ## Matrículas INEP - Treino de Fórmulas no Excel
