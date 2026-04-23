@@ -70,7 +70,7 @@ https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?us
 
 ## 📄 | Certificados: 
 
-## Python Fundamental - Aprenda Mais MEC
+## 👾 | Python Fundamental - Aprenda Mais MEC
 
 👉 De acordo com a disciplina lecionada (Fontes de Informações e Banco de Dados), e visando a uma melhor desenvoltura, realizei o curso de Python Fundamental, disponível na plataforma educacional Aprenda Mais MEC (link da plataforma), com o objetivo de aprimorar meus conhecimentos na linguagem de programação e sua aplicação em atividades.
 
