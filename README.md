@@ -4,7 +4,7 @@ Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (
 
 ## 🚀 | Apresentações:
 
-## Apresentação coletiva informal com o uso de sfotwaeres de design gráfico:
+## Apresentação coletiva informal com o uso de software de design gráfico:
 
 📆 | 21/02/2026
 
