@@ -68,10 +68,6 @@ https://docs.google.com/spreadsheets/d/1eRlsnNWPBH5R9PKc9vjnH4J6-7ZwAQfD/edit?us
 
 https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?usp=sharing&ouid=113891870647449011314&rtpof=true&sd=true
 
-## Base de Dados - PowerBi
-
-
-
 ## 📄 | Certificados: 
 
 ## 👾 | Python Fundamental - Aprenda Mais MEC
