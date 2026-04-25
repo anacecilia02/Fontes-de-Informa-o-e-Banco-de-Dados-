@@ -70,9 +70,13 @@ https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?us
 
 ## 📊 | Dashboards - Microsoft PowerBi
 
+## Despesas das secretárias municipais de São José dos Campos
+
 📆 | 23/04/2026 
 
 👉 Introdução ao Microsoft PowerBi como ferramenta para desenvolvimento de dashboards, gráficos e análises. Com uma atividade incial, cujo objetivo era apontar as desepesas do município de São José dos Campos em 2026, nos meses de: janeiro, feveireiro e março. 
+
+<img width="1920" height="1080" alt="Captura de tela 2026-04-24 224236" src="https://github.com/user-attachments/assets/f4aa5ec5-17bd-404f-a68e-f9bdf490d590" />
 
 ## Matrículas de Ensino Superior no Estado de São Paulo
 
