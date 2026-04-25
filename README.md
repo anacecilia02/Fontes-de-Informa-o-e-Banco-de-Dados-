@@ -74,14 +74,11 @@ https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?us
 
 👉 Introdução ao Microsoft PowerBi como ferramenta para desenvolvimento de dashboards, gráficos e análises. Com uma atividade incial, cujo objetivo era apontar as desepesas do município de São José dos Campos em 2026, nos meses de: janeiro, feveireiro e março. 
 
-https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?usp=sharing&ouid=113891870647449011314&rtpof=true&sd=true
+📆 | 24/04/2026 
 
-<img width="1920" height="1080" alt="Captura de tela 2026-04-24 221425" src="https://github.com/user-attachments/assets/85c30ca8-9cfe-41f5-8d0d-ca44e74a2c5b" />
+👉 Desenvolvimento de dashboard com o tema: "Matrículas de Ensino Superior no Estado de São Paulo". 
 
-
-
-
-
+<img width="1920" height="1080" alt="Captura de tela 2026-04-24 222039" src="https://github.com/user-attachments/assets/2295ca68-bc7b-4c2f-a300-219f63d98bfa" />
 
 ## 📄 | Certificados: 
 
