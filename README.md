@@ -74,6 +74,8 @@ https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?us
 
 👉 Introdução ao Microsoft PowerBi como ferramenta para desenvolvimento de dashboards, gráficos e análises. Com uma atividade incial, cujo objetivo era apontar as desepesas do município de São José dos Campos em 2026, nos meses de: janeiro, feveireiro e março. 
 
+## Matrículas de Ensino Superior no Estado de São Paulo
+
 📆 | 24/04/2026 
 
 👉 Desenvolvimento de dashboard com o tema: "Matrículas de Ensino Superior no Estado de São Paulo". 
