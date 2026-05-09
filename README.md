@@ -94,6 +94,28 @@ https://docs.google.com/spreadsheets/d/1VxsQRzcMIKfm_W6WG-7gpOA1pBn0j2w2/edit?us
 
 <img width="1920" height="1080" alt="Captura de tela 2026-05-08 205832" src="https://github.com/user-attachments/assets/82609efa-3db5-4ae1-a9e5-52bbded57e09" />
 
+## Empregos Formais no Estado de São Paulo
+
+📆 | 08/05/2026 
+
+👉 Análise e criação de dashboard com a temática de "Empregos Formais no Estado de São Paulo", repondendo as seguintes questões. 
+
+Visão geral do painel:
+
+<img width="1920" height="1080" alt="Captura de tela 2026-05-08 224937" src="https://github.com/user-attachments/assets/3961ccde-3767-4081-a752-81adc34599e6" />
+
+Questionamento 01: Qual o ano e mês houve o menor saldo de movimentação? E o maior?
+
+<img width="1920" height="1080" alt="Captura de tela 2026-05-08 225054" src="https://github.com/user-attachments/assets/1db8c781-7e2c-4488-b357-9684b7da5b0b" />
+
+Com base na imagem, podemos concluir que, o ano e mês com menor saldo de movimentação foi em abril de 2020. E o ano e mês com maior saldo de movimetação foi em fevereiro de 2025.
+
+Questionamenot 2: Em qual ano a mpédia de movimentação foi mneor que zero? 
+
+<img width="1920" height="1080" alt="Captura de tela 2026-05-08 225634" src="https://github.com/user-attachments/assets/d759f7f1-cdd9-40ce-85b8-3dddc7abb6c7" />
+
+Com base na imagem, podmeos concluir que, os anos que apresentaram média maior que zero foram: 2021, 2022, 2023, 2024, 2025, 2026.
+
 ## 📄 | Certificados: 
 
 ## 👾 | Python Fundamental - Aprenda Mais MEC
