@@ -118,13 +118,39 @@ Com base na imagem, podemos concluir que, o ano e mês com menor saldo de movime
 
 > ## Questionamento 2: Em qual ano a média de movimentação foi menor que zero? 
 
-<img width="1920" height="1080" alt="Captura de tela 2026-05-08 225634" src="https://github.com/user-attachments/assets/d759f7f1-cdd9-40ce-85b8-3dddc7abb6c7" />
+<img width="904" height="552" alt="Captura de tela 2026-05-08 225634" src="https://github.com/user-attachments/assets/d759f7f1-cdd9-40ce-85b8-3dddc7abb6c7" />
 
 ---
 
 Com base na imagem, podmeos concluir que, os anos que apresentaram média maior que zero foram: 2021, 2022, 2023, 2024, 2025, 2026.
 
 ---
+
+## Kaggle | Ice Cream 
+
+📆 | 14/05/2026 
+
+👉 Desenvolvimento de análise utilizando o banco de dados públicos "Kaglle" no Excel.
+
+## Kaggle | Ice Cream Sales Temperature
+
+📆 | 15/05/2026 
+
+👉 Desenvolvimento de análise utilizando o banco de dados públicos "Kaglle" no Google Colab.
+
+<img width="904" height="552" alt="Captura de tela 2026-05-15 222014" src="https://github.com/user-attachments/assets/83898446-0879-48cd-9b65-39180ccdde2e" />
+
+## Kaggle | Beer Consumption in São Paulo
+
+📆 | 15/05/2026 
+
+👉 Desenvolvimento de análise utilizando o banco de dados públicos "Kaglle" no Google Colab e Excel.
+
+<img width="904" height="552" alt="Captura de tela 2026-05-15 221517" src="https://github.com/user-attachments/assets/cfe1a05f-d0ee-4a0c-bb5f-57dfa467a122" />
+
+---
+
+<img width="904" height="552" alt="Captura de tela 2026-05-15 222128" src="https://github.com/user-attachments/assets/e26c1c63-46c2-42b0-b7fd-c7d818cdb47c" />
 
 ## 📄 | Certificados: 
 
