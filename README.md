@@ -132,6 +132,9 @@ Com base na imagem, podmeos concluir que, os anos que apresentaram média maior 
 
 👉 Desenvolvimento de análise utilizando o banco de dados públicos "Kaglle" no Excel.
 
+<img width="904" height="552" alt="Captura de tela 2026-05-15 223855" src="https://github.com/user-attachments/assets/4f4224f5-ca4b-4872-81ad-59ce5283961c" />
+
+
 ## Kaggle | Ice Cream Sales Temperature
 
 📆 | 15/05/2026 
