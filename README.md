@@ -155,6 +155,14 @@ Com base na imagem, podmeos concluir que, os anos que apresentaram média maior 
 
 <img width="904" height="552" alt="Captura de tela 2026-05-15 222128" src="https://github.com/user-attachments/assets/e26c1c63-46c2-42b0-b7fd-c7d818cdb47c" />
 
+---
+
+📆 | 22/05/2026 
+
+👉 Desenvolvimento de análise utilizando o banco de dados públicos "Kaglle" no Google Colab e Excel, com a temática: "Consumo de Cerveja e Lucros com Sorvete em relação à Temperatura"
+
+<img width="904" height="552" alt="Captura de tela 2026-05-22 225147" src="https://github.com/user-attachments/assets/285ca3b3-9557-49cc-9386-baff53e12287" />
+
 ## 📄 | Certificados: 
 
 ## 👾 | Python Fundamental - Aprenda Mais MEC
